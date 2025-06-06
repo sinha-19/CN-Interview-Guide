@@ -7,21 +7,25 @@ This repository is designed to help students, job seekers, and professionals mas
 
 ## 📚 Table of Contents
 
-1. [Introduction to Computer Networks](./01_Introduction_to_Computer_Networks.md)
-2. [Network Types & Topologies](./02_Network_Types_and_Topologies.md)
-3. [OSI Model](./03_OSI_Model.md)
-4. [TCP/IP Model](./04_TCP_IP_Model.md)
-5. [Network Layer & IP Addressing](./05_Network_Layer_and_IP_Addressing.md)
-6. [Routing Algorithms](./06_Routing_Algorithms.md)
-7. [Transport Layer: TCP & UDP](./07_Transport_Layer.md)
-8. [Application Layer & Protocols](./08_Application_Layer_and_Protocols.md)
-9. [Network Security & Firewalls](./09_Network_Security_and_Firewalls.md)
-10. [Wireless & Mobile Networks](./10_Wireless_and_Mobile_Networks.md)
-11. [Network Devices & Topologies](./11_Network_Devices_and_Topologies.md)
-12. [Network Troubleshooting & Commands](./12_Network_Troubleshooting_and_Commands.md)
-13. [Cloud Networking & Emerging Trends](./13_Cloud_Networking_and_Emerging_Trends.md)
-14. [Subnetting & Supernetting](./14_Subnetting_and_Supernetting.md)
-15. [Best Practices & Interview Q&A](./15_Best_Practices_and_Interview_QA.md)
+Each chapter includes a direct [video] link for visual learning and quick revision on YouTube. Section and file names are preserved as provided.
+
+| #  | Topic                                           | File Name                                               |   | Video Link |
+|----|-------------------------------------------------|---------------------------------------------------------|---|------------|
+| 1  | Introduction to Computer Networks               | [01_Introduction_to_Computer_Networks.md](./01_Introduction_to_Computer_Networks.md) |   | [video](https://www.youtube.com/results?search_query=Introduction+to+Computer+Networks) |
+| 2  | Network Types & Topologies                      | [02_Network_Types_and_Topologies.md](./02_Network_Types_and_Topologies.md)           |   | [video](https://www.youtube.com/results?search_query=Network+Types+and+Topologies) |
+| 3  | OSI Model                                      | [03_OSI_Model.md](./03_OSI_Model.md)                                           |   | [video](https://www.youtube.com/results?search_query=OSI+Model) |
+| 4  | TCP/IP Model                                   | [04_TCP_IP_Model.md](./04_TCP_IP_Model.md)                                     |   | [video](https://www.youtube.com/results?search_query=TCP+IP+Model) |
+| 5  | Network Layer & IP Addressing                  | [05_Network_Layer_and_IP_Addressing.md](./05_Network_Layer_and_IP_Addressing.md)     |   | [video](https://www.youtube.com/results?search_query=Network+Layer+IP+Addressing) |
+| 6  | Routing Algorithms                             | [06_Routing_Algorithms.md](./06_Routing_Algorithms.md)                                 |   | [video](https://www.youtube.com/results?search_query=Routing+Algorithms+in+Networking) |
+| 7  | Transport Layer: TCP & UDP                     | [07_Transport_Layer.md](./07_Transport_Layer.md)                                   |   | [video](https://www.youtube.com/results?search_query=Transport+Layer+TCP+UDP) |
+| 8  | Application Layer & Protocols                  | [08_Application_Layer_and_Protocols.md](./08_Application_Layer_and_Protocols.md)       |   | [video](https://www.youtube.com/results?search_query=Application+Layer+Protocols+in+Networking) |
+| 9  | Network Security & Firewalls                   | [09_Network_Security_and_Firewalls.md](./09_Network_Security_and_Firewalls.md)         |   | [video](https://www.youtube.com/results?search_query=Network+Security+Firewalls) |
+| 10 | Wireless & Mobile Networks                     | [10_Wireless_and_Mobile_Networks.md](./10_Wireless_and_Mobile_Networks.md)             |   | [video](https://www.youtube.com/results?search_query=Wireless+and+Mobile+Networks) |
+| 11 | Network Devices & Topologies                   | [11_Network_Devices_and_Topologies.md](./11_Network_Devices_and_Topologies.md)         |   | [video](https://www.youtube.com/results?search_query=Network+Devices+and+Topologies) |
+| 12 | Network Troubleshooting & Commands              | [12_Network_Troubleshooting_and_Commands.md](./12_Network_Troubleshooting_and_Commands.md) |   | [video](https://www.youtube.com/results?search_query=Network+Troubleshooting+Commands) |
+| 13 | Cloud Networking & Emerging Trends              | [13_Cloud_Networking_and_Emerging_Trends.md](./13_Cloud_Networking_and_Emerging_Trends.md) |   | [video](https://www.youtube.com/results?search_query=Cloud+Networking+Emerging+Trends) |
+| 14 | Subnetting & Supernetting                      | [14_Subnetting_and_Supernetting.md](./14_Subnetting_and_Supernetting.md)                 |   | [video](https://www.youtube.com/results?search_query=Subnetting+and+Supernetting) |
+| 15 | Best Practices & Interview Q&A                  | [15_Best_Practices_and_Interview_QA.md](./15_Best_Practices_and_Interview_QA.md)         |   | [video](https://www.youtube.com/results?search_query=Computer+Network+Interview+Questions) |
 
 ---
 
@@ -33,6 +37,7 @@ This repository is designed to help students, job seekers, and professionals mas
 - **Quick Revision Tables:** Fast recap for exams and interviews.
 - **Real-world Examples:** Practical explanations and scenarios.
 - **Best Practices:** Security, troubleshooting, and design tips.
+- **Visual Learning:** [video] links for each chapter provide top YouTube tutorials and lectures.
 
 ---
 
@@ -41,7 +46,8 @@ This repository is designed to help students, job seekers, and professionals mas
 - Start with chapter 1 and progress sequentially, or jump to any topic using the Table of Contents.
 - Each chapter contains explanations, tables, diagrams, and interview questions.
 - Use the revision tables for last-minute preparation.
-- Refer to the links in each chapter for further reading.
+- Click on the [video] link beside each chapter for instant visual learning and revision.
+- Refer to the additional reference links in each chapter for further reading.
 
 ---
 
